@@ -47,8 +47,8 @@ _A Virtual Patient Simulation System for Medical Training_
 
 ### 1⃣ Clone the Repository  
 ```sh  
-git clone https://github.com/your-username/flamingo-cares.git  
-cd flamingo-cares  
+git clone https://github.com/deepmehta27/Flamingo-cares.git
+cd app 
 ```
 
 ### 2⃣ Install Dependencies  
